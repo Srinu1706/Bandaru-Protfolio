@@ -1,0 +1,13 @@
+.carousel img {
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  #skills .col {
+    margin-bottom: 1.5rem;
+  }
+  
+  #skills i {
+    color: #003366;
+  }
+  
